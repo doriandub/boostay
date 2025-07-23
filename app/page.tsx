@@ -110,16 +110,16 @@ export default function Home() {
             </span>
           </div>
           {/* Main Title */}
-          <h1 className="text-3xl sm:text-4xl lg:text-5xl font-bold text-gray-900 mb-4 sm:mb-6 lg:mb-8 leading-tight">
-            <span>The shortcut to becoming</span>
-            <br className="hidden lg:block" />
-            <span>Instagram's next viral hotel</span>
+          <h1 className="text-3xl sm:text-4xl lg:text-5xl font-bold text-gray-900 mb-4 sm:mb-6 lg:mb-8 leading-tight hero-title-fix">
+            The shortcut to becoming{' '}
+            <br className="hidden sm:inline" />
+            Instagram's next viral hotel
           </h1>
           {/* Tagline */}
-          <p className="text-base sm:text-lg lg:text-xl text-gray-600 mb-8 sm:mb-10 max-w-3xl mx-auto leading-relaxed">
-            <span>The next generation of PR - powered by data, elevated by technology,</span>
-            <br className="hidden lg:block" />
-            <span>and brought to life through authentic social storytelling.</span>
+          <p className="text-base sm:text-lg lg:text-xl text-gray-600 mb-8 sm:mb-10 max-w-3xl mx-auto leading-relaxed hero-tagline-fix">
+            The next generation of PR – powered by data, elevated by technology,{' '}
+            <br className="hidden sm:inline" />
+            and brought to life through authentic social storytelling.
           </p>
           {/* CTA Buttons */}
           <div className="flex justify-center mb-10 sm:mb-14">
@@ -151,10 +151,10 @@ export default function Home() {
               </h2>
               <div className="space-y-4 sm:space-y-6 text-base sm:text-lg text-gray-600 leading-relaxed">
                 <p>
-                  We create a vertical, social-native capsule that tells your story through carefully designed narratives and visuals - crafted to align with your brand and resonate with modern audiences.
+                  We create a short editorial capsule that tells your story through carefully crafted narratives and visuals - designed to align with your brand and resonate with social media audiences.
                 </p>
                 <p>
-                  This feature is published on our multilingual media platforms, presenting your hotel as a destination of choice in a premium editorial context - inspiring travelers and strengthening your image across borders.
+                  This capsule is published on our multilingual media platforms, presenting your hotel as a destination of choice in a premium editorial context - inspiring travelers and strengthening your image worldwide.
                 </p>
               </div>
             </div>
@@ -280,10 +280,10 @@ export default function Home() {
               </h2>
               <div className="space-y-4 sm:space-y-6 text-base sm:text-lg text-gray-600 leading-relaxed">
                 <p>
-                  We then take this crafted capsule and deploy it methodically across a constellation of supporting accounts - publishing it hundreds of times per month in different formats and contexts.
+                  This capsule will then be deployed across multiple supporting accounts - publishing it hundreds of times per month in different formats and contexts.
                 </p>
                 <p>
-                  This high-volume, data-driven approach multiplies your chances of a viral breakthrough - ensuring one or more posts spark significant attention while driving consistent engagement in your target markets.
+                  This high-volume, data-driven approach ensures repeated visibility for your property in the chosen target markets - and multiplies your chances of a viral breakthrough.
                 </p>
               </div>
             </div>
@@ -626,7 +626,7 @@ export default function Home() {
                 <img src="/images/content1.png" alt="Drone Views" className="w-full h-full object-cover" style={{borderRadius: '1.1rem'}} />
                 {/* Caption Rectangle */}
                 <div className="absolute left-1/2 bottom-2 transform -translate-x-1/2 w-[80%] bg-white/80 text-gray-900 text-[11px] sm:text-xs px-2 py-1 rounded-md flex items-center justify-center whitespace-nowrap overflow-hidden text-ellipsis" style={{backdropFilter: 'blur(2px)'}}>
-                  Drone Views
+                  Drone
                 </div>
               </div>
               {/* Phone 2 */}
@@ -634,7 +634,7 @@ export default function Home() {
                 <img src="/images/content2.png" alt="Reels Content" className="w-full h-full object-cover" style={{borderRadius: '1.1rem'}} />
                 {/* Caption Rectangle */}
                 <div className="absolute left-1/2 bottom-2 transform -translate-x-1/2 w-[80%] bg-white/80 text-gray-900 text-[11px] sm:text-xs px-2 py-1 rounded-md flex items-center justify-center whitespace-nowrap overflow-hidden text-ellipsis" style={{backdropFilter: 'blur(2px)'}}>
-                  Reels Content
+                  Reels
                 </div>
               </div>
               {/* Phone 3 */}
@@ -642,7 +642,7 @@ export default function Home() {
                 <img src="/images/content3.png" alt="Stories Highlights" className="w-full h-full object-cover" style={{borderRadius: '1.1rem'}} />
                 {/* Caption Rectangle */}
                 <div className="absolute left-1/2 bottom-2 transform -translate-x-1/2 w-[80%] bg-white/80 text-gray-900 text-[11px] sm:text-xs px-2 py-1 rounded-md flex items-center justify-center whitespace-nowrap overflow-hidden text-ellipsis" style={{backdropFilter: 'blur(2px)'}}>
-                  Stories Highlights
+                  Stories
                 </div>
               </div>
             </div>
@@ -657,7 +657,7 @@ export default function Home() {
             <h2 className="text-xl sm:text-2xl lg:text-3xl font-bold text-gray-900 mb-3 sm:mb-4 lg:mb-6">How It Works</h2>
             <div className="max-w-3xl mx-auto space-y-3 sm:space-y-4">
               <p className="text-sm sm:text-base lg:text-lg text-gray-600 leading-relaxed">
-                Simple three-step process to transform your hotel's social media presence
+                Simple three-step process to transform your hotel's social media presence&nbsp;:
               </p>
             </div>
           </div>
