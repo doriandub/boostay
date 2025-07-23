@@ -26,11 +26,11 @@ export default function RootLayout({
   return (
     <html lang="en">
       <head>
-        <title>BOOSTAY – Luxury Hotel Social Media PR Platform</title>
-        <meta name="description" content="BOOSTAY is the ultra-premium social media PR platform for luxury hotels. Data-driven, viral growth, Fortune 500 quality." />
-        <meta property="og:title" content="BOOSTAY – Luxury Hotel Social Media PR Platform" />
-        <meta property="og:description" content="BOOSTAY is the ultra-premium social media PR platform for luxury hotels. Data-driven, viral growth, Fortune 500 quality." />
-        <meta property="og:image" content="/images/logo1.png" />
+        <title>BOOSTAY - Luxury Hotel Social Media PR Platform</title>
+        <meta name="description" content="The next generation of PR - powered by data, elevated by technology, and brought to life through authentic social storytelling." />
+        <meta property="og:title" content="BOOSTAY - Luxury Hotel Social Media PR Platform" />
+        <meta property="og:description" content="The next generation of PR - powered by data, elevated by technology, and brought to life through authentic social storytelling." />
+        <meta property="og:image" content="/images/og-preview.png" />
         <meta property="og:url" content="https://boostay.com" />
         <meta property="og:type" content="website" />
         <link rel="canonical" href="https://boostay.com" />
